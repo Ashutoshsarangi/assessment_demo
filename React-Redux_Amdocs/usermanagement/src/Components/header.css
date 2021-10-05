@@ -1,0 +1,12 @@
+.header{
+    border: 2px Solid #123456;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #123456;
+    color: white;
+}
+
+.taskname{
+    font-size:x-large
+}
